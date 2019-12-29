@@ -1,0 +1,167 @@
+*{
+	margin: 0;
+	padding:0;
+}
+#navigation-bar{
+	background-color: #79cbe0;
+	
+}
+nav ul li a{
+
+	color: black;
+	text-decoration: none;
+    
+
+}
+nav ul li{
+	display: inline-block;
+	float: right;
+	padding: 20px 100px 0 0;
+	
+}
+nav{
+	height:auto;
+
+}
+#banner
+{
+	height: 900px;
+
+}
+
+.one-third
+{	
+	/*margin-left: 500px;*/
+	height: auto;
+	width: 100%;
+}
+.Left
+{
+	float: left;
+	height: 200px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+}
+
+.Left img
+{
+	height: 200px;
+	float: left;
+}
+
+.content
+{
+	align-content: center;
+	margin-top: 30px;
+	color: white;
+}
+
+.content a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-left: 50px;
+}
+.Middle
+{
+	float: left;
+	height: 200px;
+	width: 33.33%;
+	background-image: url("image/Asia.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.Right
+{
+	float: left;
+	height: 200px;
+	width: 33.33%;	
+}
+.paragraph
+{
+	clear: both;
+	height: 300px;
+	width: 100%;
+	background-color: #ce926f;
+}
+/*.article
+{
+	float: left;
+	height: 200px;
+	width: 50%;
+	 
+}*/
+footer{
+
+	clear: both;
+	height: 200px;
+	width: 100%;
+	background-color: white;
+}
+#wallpaper{
+	height: 900px;
+	width: 100%;
+}
+nav ul img
+{
+	height: 50px;
+	padding: 0px 50px 0px 50px; 
+}
+#media
+{
+	display: inline-block;
+	width: auto;
+	height: 150px;
+	margin-right: 25px;
+}
+.info
+{
+	background-image: url("image/about.jpg");
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	/*background:  #663300;*/
+	height: 600px;
+	width: 100%;
+}
+.domastic{
+	font-size: 25px;
+	font: bold;
+	margin-left: 820px;
+}
+#patner
+{
+	transform: scale(1.2);
+	padding: 50px 50px 50px 36px;
+	margin-left: 50px;
+}
+.img{
+	background: #87ceeb;
+}
+.aboutus{
+	font-size: 25px;
+	font: bold;
+	padding-top: 150px;
+	margin-left: 200px;
+}
+a{
+	color: brown;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+	color: blue;
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}

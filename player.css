@@ -1,0 +1,600 @@
+*{
+	margin: 0;
+	padding:0;
+
+}
+#navigation-bar{
+	background-color: #79cbe0;
+	
+}
+nav ul img
+{
+	height: 50px;
+	padding: 0px 50px 0px 50px; 
+}
+nav ul li a{
+
+	color: black;
+	text-decoration: none;
+    
+
+}
+nav ul li{
+	display: inline-block;
+	float: right;
+	padding: 20px 100px 0 0;
+	
+}
+nav{
+	height:auto;
+
+}
+.all
+{
+	padding-left: 150px;
+	background-image: url("image/a.png");
+	background-position: center;
+
+}
+.a
+{
+	height: 210px;
+	width: 100%;
+	display: inline-block;
+}
+.player
+{
+	display: inline-block;
+	margin-left: 50px;
+	/*float: left;*/
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player img
+{
+	float: left;
+}
+.nepal
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-left: 50px;
+}
+.player1
+{
+	margin-left: 50px;
+	/*float: left;*/
+	display: inline-block;
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player1 img
+{
+	float: left;
+}
+.nepal1
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal1 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-right: 50px;
+}
+/**/
+.b
+{
+	height: 210px;
+	width: 100%;
+	display: inline-block;
+}
+.player2
+{
+	display: inline-block;
+	margin-left: 50px;
+	/*float: left;*/
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player2 img
+{
+	float: left;
+}
+.nepal2
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal2 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-left: 50px;
+}
+.player3
+{
+	margin-left: 50px;
+	/*float: left;*/
+	display: inline-block;
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player3 img
+{
+	float: left;
+}
+.nepal3
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal3 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-right: 50px;
+}
+
+/**/
+.c
+{
+	height: 210px;
+	width: 100%;
+	display: inline-block;
+}
+.player4
+{
+	display: inline-block;
+	margin-left: 50px;
+	/*float: left;*/
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player4 img
+{
+	float: left;
+}
+.nepal4
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal4 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-left: 50px;
+}
+.player5
+{
+	margin-left: 50px;
+	/*float: left;*/
+	display: inline-block;
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player5 img
+{
+	float: left;
+}
+.nepal5
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal5 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-right: 50px;
+}
+
+/**/
+.d
+{
+	height: 210px;
+	width: 100%;
+	display: inline-block;
+}
+.player6
+{
+	display: inline-block;
+	margin-left: 50px;
+	/*float: left;*/
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player6 img
+{
+	float: left;
+}
+.nepal6
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal6 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-left: 50px;
+}
+.player7
+{
+	margin-left: 50px;
+	/*float: left;*/
+	display: inline-block;
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player7 img
+{
+	float: left;
+}
+.nepal7
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal7 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-right: 50px;
+}
+
+/**/
+.e
+{
+	height: 210px;
+	width: 100%;
+	display: inline-block;
+}
+.player8
+{
+	display: inline-block;
+	margin-left: 50px;
+	/*float: left;*/
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player8 img
+{
+	float: left;
+}
+.nepal8
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal8 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-left: 50px;
+}
+.player9
+{
+	margin-left: 50px;
+	/*float: left;*/
+	display: inline-block;
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player9 img
+{
+	float: left;
+}
+.nepal9
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal9 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-right: 50px;
+}
+
+/**/
+.f
+{
+	height: 210px;
+	width: 100%;
+	display: inline-block;
+}
+
+.player10
+{
+	margin-left: 50px;
+	/*float: left;*/
+	display: inline-block;
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player10 img
+{
+	float: left;
+}
+.nepal10
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal10 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-right: 50px;
+}
+
+/*.player4
+{
+	margin-left: 50px;
+	float: left;
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player4 img
+{
+	float: left;
+}
+.nepal4
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal4 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-right: 50px;
+}
+.player5
+{
+	margin-left: 50px;
+	float: left;
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player5 img
+{
+	float: left;
+}
+.nepal5
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal5 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-right: 50px;
+}
+.player6
+{
+	margin-left: 50px;
+	float: left;
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player6 img
+{
+	float: left;
+}
+.nepal6
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal6 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-right: 50px;
+}
+.player7
+{
+	margin-left: 50px;
+	float: left;
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player7 img
+{
+	float: left;
+}
+.nepal7
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal7 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-right: 50px;
+}
+.player8
+{
+	margin-left: 50px;
+	float: left;
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player8 img
+{
+	float: left;
+}
+.nepal8
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal8 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-right: 50px;
+}
+.player9
+{
+	margin-left: 50px;
+	float: left;
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player9 img
+{
+	float: left;
+}
+.nepal9
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal9 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-right: 50px;
+}
+.player10
+{
+	margin-left: 50px;
+	float: left;
+	height: 210px;
+	width: 33.33%;
+	background-image: url("image/statidum1.jpg");
+	background-size: cover;
+
+}
+.player10 img
+{
+	float: left;
+}
+.nepal10
+{
+	align-content: center;
+	margin-top: 0px;
+	color: white;
+
+}
+.nepal10 a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-right: 50px;
+}
