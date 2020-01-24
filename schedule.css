@@ -32,3 +32,28 @@ nav{
 {
 	padding-left: 150px;
 }
+
+#CricketTbl 
+{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    margin-left: 180px;
+    width: 75%
+}
+#CricketTbl td, #CricketTbl th 
+{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#CricketTbl tr:nth-child(even){background-color: #f2f2f2;}
+            
+#CricketTbl tr:hover {background-color: #ddd;}
+
+#CricketTbl th 
+{
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+    background-color: #00008b;
+    color: white;
+}
