@@ -2,6 +2,9 @@
 	margin: 0;
 	padding:0;
 }
+.main{
+	/*margin: 100px;*/
+}
 #navigation-bar{
 	background-color: #79cbe0;
 	
